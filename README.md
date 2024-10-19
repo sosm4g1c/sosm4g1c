@@ -1,5 +1,5 @@
-# templateProfile
-<h1 align="center">Hi 👋, I'm Bach Hieu (Mr.White)</h1>
+# Hi 👋, I'm Bach Hieu (Mr.White)
+
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 - 🌱 I’m currently focusing on end Web Development and practicing Frontend Web Development and DevOps everyday. **ReactJS, NextJs**
